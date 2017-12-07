@@ -1,0 +1,9 @@
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\bin\Debug\lab2_Test_Calc.exe.config
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\bin\Debug\lab2_Test_Calc.exe
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\bin\Debug\lab2_Test_Calc.pdb
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\obj\Debug\lab2_Test_Calc.csprojResolveAssemblyReference.cache
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\obj\Debug\lab2_Test_Calc.Form1.resources
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\obj\Debug\lab2_Test_Calc.Properties.Resources.resources
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\obj\Debug\lab2_Test_Calc.csproj.GenerateResource.Cache
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\obj\Debug\lab2_Test_Calc.exe
+D:\onu\TNK\lab2_Test_Calc\lab2_Test_Calc\obj\Debug\lab2_Test_Calc.pdb
